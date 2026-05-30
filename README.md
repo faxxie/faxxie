@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f4/83/56/f483561b84a2abde654bb422f02f4d04.jpg" width="250">
+  <img src="<img width="736" height="736" alt="୨୧ SATOSUGU, ITAFUSHI   NOBAMAKI !-Photoroom" src="https://github.com/user-attachments/assets/52aadef9-a213-472e-b593-7867b84e7ae3" />
+" width="250">
 </p>
 
 
