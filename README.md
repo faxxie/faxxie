@@ -11,7 +11,7 @@
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;
-  <a href="https://Faxxie.straw.page/">documenthi</a>
+  <a href="https://documenthi.straw.page/">documenthi</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://faxxie.atabook.org/">faxxie</a>
   &nbsp;&nbsp;&nbsp;
