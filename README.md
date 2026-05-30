@@ -14,6 +14,6 @@
   <a href="https://documenthi.straw.page/">documenthi</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://faxxie.atabook.org/">faxxie</a>
-  <a href="https://en.pronouns.page/">@Alxino</a>
+  <a href="https://Alxino.en.pronouns.page/">@Alxino</a>
   &nbsp;&nbsp;&nbsp;
   
