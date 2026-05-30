@@ -7,3 +7,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faxxie">
 </p>
+
+
+<p align="center">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://straw.page/">documenthi</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://atabook.org/">faxxie</a>
+  &nbsp;&nbsp;&nbsp;
