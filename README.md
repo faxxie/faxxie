@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+![image alt](https://i.pinimg.com/736x/2f/01/e5/2f01e517fe95dc3de61c2f77dc1fadaa.jpg)
 **faxxie/faxxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
