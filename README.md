@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/12/e5/88/12e588f3187da78e8651e11e048d62a8.jpg" width="350">
+  <img src="https://i.pinimg.com/736x/70/f8/c5/70f8c5b910060716973cd1fa41ee82a8.jpg" width="350">
 </p>
 
 <p align="center">
