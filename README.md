@@ -13,6 +13,6 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://alexonichan.straw.page/">strawpage</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://faxxie.atabook.org/">faxxie</a>
+  <a href="https://faxxie.atabook.org/">atabook</a>
   &nbsp;&nbsp;&nbsp;
   
