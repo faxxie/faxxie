@@ -15,4 +15,4 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://faxxie.atabook.org/">atabook</a>
   &nbsp;&nbsp;&nbsp;
-- [Pronouns.page](https://pronouns.page/@Alxino)
+  (https://pronouns.page/@Alxino)
