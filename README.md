@@ -15,5 +15,5 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://faxxie.atabook.org/">atabook</a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://@Alxino.en.pronouns.page/">en.pronouns.page</a>
+   <a href="https://faxxie.en.pronouns.page/">en.pronouns.page</a>
   &nbsp;&nbsp;&nbsp;
