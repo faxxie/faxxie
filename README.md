@@ -1,5 +1,4 @@
-	
-	( ˘ ɜ˘) ♬♪♫      Check sp for document stuff!
+
 
 <h2 align="center">
   ˙　　 . 　　 ꒷ 　　 🍰 　　 . 　　 𖦹˙—
