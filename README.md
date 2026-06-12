@@ -15,7 +15,7 @@
 
 <p align="center">
   &nbsp;&nbsp;&nbsp;
-  <a href="https://documenthi.straw.page/">strawpage</a>
+  <a href="https://dekuissomid.straw.page/">strawpage</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://faxxie.atabook.org/">atabook</a>
   &nbsp;&nbsp;&nbsp;
