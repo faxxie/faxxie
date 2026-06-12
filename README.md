@@ -20,7 +20,6 @@
   <a href="https://faxxie.atabook.org/">atabook</a>
   &nbsp;&nbsp;&nbsp;
 	
-"Sometimes i do feel like I’m a failure. Like there‘s no hope for me. But even so, I’m not gonna give up. Ever!"
 
 <h2 align="center">
   ˙　　 . 　　 ꒷ 　　 🍰 　　 . 　　 𖦹˙—
