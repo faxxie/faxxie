@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faxxie">
+  <img src="https://komarev.com/ghpvc/?username=faxxie&color=brightgreen">
 </p>
 
 
