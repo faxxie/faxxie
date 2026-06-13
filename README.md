@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-  ˙　　 . 　　 ꒷ 　　 🍀 　　 . 　　 𖦹˙—
+  ˙　　 . 　　 ꒷ 　　 🍀 　　 . 　　 ⌗˙—
 </h2>
 	
 <p align="center">
@@ -22,5 +22,5 @@
 	
 
 <h2 align="center">
-  ˙　　 . 　　 ꒷ 　　 🍀 　　 . 　　 𖦹˙—
+  ˙　　 . 　　 ꒷ 　　 🍀 　　 . 　　 ⌗˙—
 </h2>
