@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faxxie&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=faxxie&label=🥦&color=brightgreen">
 </p>
 
 
