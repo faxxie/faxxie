@@ -17,7 +17,6 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://izukuissomid.straw.page/">strawpage</a>
   &nbsp;&nbsp;&nbsp;
-	
   <a href="https://faxxie.atabook.org/">atabook</a>
   &nbsp;&nbsp;&nbsp;
 	
