@@ -1,7 +1,7 @@
 
 
 <h2 align="center">
-  ˙　　 . 　　 ꒷ 　　 💚 　　 . 　　 ⌗˙—
+  ˙　　 . 　　 ꒷ 　　 ✿ 　　 . 　　 ⌗˙—
 </h2>
 	
 <p align="center">
@@ -21,7 +21,9 @@
   &nbsp;&nbsp;&nbsp;
 	
 
+<img src="https://i.pinimg.com/originals/92/2b/f1/922bf1ac2c80f8c2164c754f10e3c01d.gif" width="300">
+
 <h2 align="center">
-  ˙　　 . 　　 ꒷ 　　 🧡 　　 . 　　 ⌗˙—
+  ˙　　 . 　　 ꒷ 　　✿  　　 . 　　 ⌗˙—
 </h2>
 
