@@ -5,7 +5,7 @@
 </h2>
 	
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/1a/1e/18/1a1e18457f6af18fe89aab1f08265372.jpg" width="450">
+  <img src="https://i.pinimg.com/1200x/a0/3b/0e/a03b0ecd6115f75a682e49c0f7a9779b.jpg" width="450">
 </p>
 
 <p align="center">
