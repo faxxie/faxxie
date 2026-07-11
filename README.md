@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Heroes](https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=b7e4c7)
+![Heroes](https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=f4a261)
 
 <img src="obrázek_2026-07-11_200759456.png" width="350">
 
