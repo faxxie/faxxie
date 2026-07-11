@@ -1,28 +1,14 @@
 
 
-<h2 align="center">
-゛ ⸝⸝.ᐟ⋆  ˙　　 . 　　 ────୨ৎ──── 　　 ⋆ ̊ 　　 . 　　˙ . ꒷ 
-</h2>
-	
-<p align="center">
-  <img src="https://i.pinimg.com/736x/dc/d0/41/dcd0416d2ac559c0bd0225a396c2f66b.jpg" width="550">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faxxie&label=🥦&color=brightgreen">
-</p>
+![Heroes](https://img.shields.io/badge/Heroes-7016-ff69b4?style=for-the-badge)
 
+<img src="obrázek_2026-07-11_200759456.png" width="350">
 
-<p align="center">
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://izukuissomid.straw.page/">strawpage</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://faxxie.atabook.org/">atabook</a>
-  &nbsp;&nbsp;&nbsp;
-	
+<br><br>
 
+<a href="https://faxxie.atabook.org/">ATABOOK</a> •
+<a href="https://izukuiissomid.straw.page/">STRAWPAGE</a>
 
-<h2 align="center">
-゛ ⸝⸝.ᐟ⋆  ˙　　 . 　      　　 ⋆ ̊ 　　 . 　　˙ . ꒷ 
-</h2>
-
+</div>
