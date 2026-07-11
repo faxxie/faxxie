@@ -9,6 +9,6 @@
 <br><br>
 
 <a href="https://faxxie.atabook.org/">ATABOOK</a> •
-<a href="https://izukuiissomid.straw.page/">STRAWPAGE</a>
+<a href="https://izukuissomid.straw.page">STRAWPAGE</a>
 
 </div>
