@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Heroes](https://img.shields.io/badge/Heroes-7016-ff69b4?style=for-the-badge)
+![Heroes](https://komarev.com/ghpvc/?username=faxxie&color=22c55e)
 
 <img src="obrázek_2026-07-11_200759456.png" width="350">
 
