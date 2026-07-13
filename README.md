@@ -2,7 +2,7 @@
 
 <p align="center">
   ♡<br>
-  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=f8a5c2&style=flat-square" /><br>
+  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=f4a261&style=flat-square" /><br>
   ♡
 </p>
 
