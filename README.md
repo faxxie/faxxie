@@ -8,8 +8,8 @@
 
 <br><br>
 
-<a href="https://faxxie.atabook.org/">ATABOOK</a> •
-<a href="https://izukuissomid.straw.page">STRAWPAGE</a> •
-<a href="https://en.pronouns.page/@Alxino">PRONOUNS</a>
+[![ATABOOK](https://img.shields.io/badge/ATABOOK-orange?style=for-the-badge)](https://faxxie.atabook.org/)
+[![STRAWPAGE](https://img.shields.io/badge/STRAWPAGE-green?style=for-the-badge)](https://izukuissomid.straw.page)
+[![PRONOUNS](https://img.shields.io/badge/PRONOUNS-orange?style=for-the-badge)](https://en.pronouns.page/@Alxino)
 
 </div>
