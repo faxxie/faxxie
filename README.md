@@ -13,6 +13,6 @@
 [![STRAWPAGE](https://img.shields.io/badge/STRAWPAGE-green?style=for-the-badge)](https://izukuissomid.straw.page)
 ♡
 [![PRONOUNS](https://img.shields.io/badge/PRONOUNS-orange?style=for-the-badge)](https://en.pronouns.page/@Alxino)
-♡
+
 
 </div>
