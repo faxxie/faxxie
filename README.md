@@ -4,7 +4,7 @@
 
 ![Heroes](https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=f4a261)
 
-<img src="heroes.png" width="450">
+<img src="bakudekuyu.png" width="450">
 
 <br><br>
 
