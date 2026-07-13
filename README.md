@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=f8a5c2&style=flat-square" />
-</p>
+  
+  ![Heroes](https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=f4a261)
 
 <img src="bkdkkk.png" width="450">
 
