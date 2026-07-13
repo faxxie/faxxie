@@ -3,7 +3,7 @@
 <p align="center">
   ────୨ৎ────<br>
   <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=ffb26b&style=flat-square" /><br>
-  ────୨ৎ────
+  . ₊ ⊹ . ₊˖ . ₊
 </p>
 
 <p align="center">
