@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://faxxie.atabook.org/">ATABOOK</a> •
-<a href="https://izukuissomid.straw.page">STRAWPAGE</a> 
-<a href="https://en.pronouns.page/@Alxino">PRONOUNS</a> •
+<a href="https://izukuissomid.straw.page">STRAWPAGE</a> •
+<a href="https://en.pronouns.page/@Alxino">PRONOUNS</a>
 
 </div>
