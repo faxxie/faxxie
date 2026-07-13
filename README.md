@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![𐔌Heroes](https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=ffb26b)
+![Heroes](https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=ffb26b)
 
 <img src="bkdkkk.png" width="450">
 
