@@ -9,9 +9,9 @@
 <br><br>
 
 [![ATABOOK](https://img.shields.io/badge/ATABOOK-orange?style=for-the-badge)](https://faxxie.atabook.org/)
-♡
+𓏵
 [![STRAWPAGE](https://img.shields.io/badge/STRAWPAGE-green?style=for-the-badge)](https://izukuissomid.straw.page)
-♡
+𓏵
 [![PRONOUNS](https://img.shields.io/badge/PRONOUNS-orange?style=for-the-badge)](https://en.pronouns.page/@Alxino)
 
 
