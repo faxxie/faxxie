@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?faxxie&label=Heroes&color=f8a5c2&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=f8a5c2&style=flat-square" />
 </p>
 
 <img src="bkdkkk.png" width="450">
