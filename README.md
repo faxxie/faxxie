@@ -18,7 +18,7 @@
   </a>
   ୨୧
   <a href="https://izukuissomid.straw.page">
-    <img src="https://img.shields.io/badge/STRAWPAGE-e8c9b0?style=for-the-badge">
+    <img src="https://img.shields.io/badge/STRAWPAGE-3F7A98?style=for-the-badge">
   </a>
   ୨୧
   <a href="https://en.pronouns.page/@Alxino">
