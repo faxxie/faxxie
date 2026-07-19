@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="wholehousemadbkdk.png" width="450">
+  <img src="bkdihku.png" width="450">
 </p>
 
 <br>
