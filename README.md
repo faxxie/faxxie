@@ -13,15 +13,19 @@
 <br>
 
 <p align="center">
-  <a href="https://faxxie.atabook.org/">
-    <img src="https://img.shields.io/badge/♡%20ATABOOK%20♡-D7B59C?style=for-the-badge">
-  </a>
-  ୨୧
   <a href="https://bakugoissomid.straw.page">
-    <img src="https://img.shields.io/badge/✦%20STRAWPAGE%20✦-184C53?style=for-the-badge">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=999999&pause=999999&color=F4A261&center=true&vCenter=true&width=180&height=45&lines=strawpage" />
   </a>
-  ୨୧
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://faxxie.atabook.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=999999&pause=999999&color=7B8CFF&center=true&vCenter=true&width=160&height=45&lines=atabook" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://en.pronouns.page/@Alxino">
-    <img src="https://img.shields.io/badge/☁︎%20PRONOUNS%20☁︎-A3A4AE?style=for-the-badge">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=999999&pause=999999&color=F28482&center=true&vCenter=true&width=180&height=45&lines=pronouns" />
   </a>
 </p>
