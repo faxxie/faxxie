@@ -14,18 +14,14 @@
 
 <p align="center">
   <a href="https://bakugoissomid.straw.page">
-    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=999999&pause=999999&color=F4A261&center=true&vCenter=true&width=180&height=45&lines=strawpage" />
+    <img alt="strawpage" src="https://img.shields.io/badge/strawpage-F4A261?style=for-the-badge&labelColor=F4A261&color=F4A261">
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://faxxie.atabook.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=999999&pause=999999&color=7B8CFF&center=true&vCenter=true&width=160&height=45&lines=atabook" />
+    <img alt="atabook" src="https://img.shields.io/badge/atabook-7B8CFF?style=for-the-badge&labelColor=7B8CFF&color=7B8CFF">
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
   <a href="https://en.pronouns.page/@Alxino">
-    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=30&duration=999999&pause=999999&color=F28482&center=true&vCenter=true&width=180&height=45&lines=pronouns" />
+    <img alt="pronouns" src="https://img.shields.io/badge/pronouns-F28482?style=for-the-badge&labelColor=F28482&color=F28482">
   </a>
 </p>
