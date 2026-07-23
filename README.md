@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/♡%20ATABOOK%20♡-D7B59C?style=for-the-badge">
   </a>
   ୨୧
-  <a href="https://bakugoissomid.straw.page">
+  <a href="https://izukuissomid.straw.page">
     <img src="https://img.shields.io/badge/✦%20STRAWPAGE%20✦-184C53?style=for-the-badge">
   </a>
   ୨୧
