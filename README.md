@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  ⋆˙⟡────────⟡˙⋆<br>
+  ⋆˙⟡˙⋆<br>
   
   <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=771f0e&style=flat-square" />
   <br>
