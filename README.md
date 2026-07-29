@@ -16,14 +16,14 @@
 
 <p align="center">
   <a href="https://faxxie.atabook.org/">
-    <img src="https://img.shields.io/badge/♡%20ATABOOK%20♡-FF2B75?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/♡%20ATABOOK%20♡-FA8128?style=for-the-badge&logoColor=white">
   </a>
   ୨୧
   <a href="https://izukuissomid.straw.page">
-    <img src="https://img.shields.io/badge/✦%20STRAWPAGE%20✦-2C8A82?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/✦%20STRAWPAGE%20✦-008000?style=for-the-badge&logoColor=white">
   </a>
   ୨୧
   <a href="https://en.pronouns.page/@Alxino">
-    <img src="https://img.shields.io/badge/☁︎%20PRONOUNS%20☁︎-0F2C23?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/☁︎%20PRONOUNS%20☁︎-FA8128?style=for-the-badge&logoColor=white">
   </a>
 </p>
