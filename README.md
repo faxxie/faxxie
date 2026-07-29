@@ -15,9 +15,9 @@
 <br>
 
 <p align="center">
-  <a href="https://faxxie.atabook.org/"><b><font color="#58a6ff">♡ ATABOOK ♡</font></b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.pronouns.page/@Alxino"><b><font color="#58a6ff">☁ PRONOUNS ☁</font></b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://izukuissomid.straw.page"><b><font color="#58a6ff">✦ STRAWPAGE ✦</font></b></a>
+  <a href="https://faxxie.atabook.org/"><img src="https://img.shields.io/badge/%E2%99%A1%20ATABOOK%20%E2%99%A1-FA8128?style=for-the-badge&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://izukuissomid.straw.page"><img src="https://img.shields.io/badge/%E2%9C%A2%20STRAWPAGE%20%E2%9C%A2-008000?style=for-the-badge&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://en.pronouns.page/@Alxino"><img src="https://img.shields.io/badge/%E2%98%81%20PRONOUNS%20%E2%98%81-FA8128?style=for-the-badge&logoColor=white" /></a>
 </p>
