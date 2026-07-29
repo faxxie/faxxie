@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <font color="#4c6a9c">⋆˙⟡────────⟡˙⋆</font><br>
+  ⋆˙⟡────────⟡˙⋆<br>
   ୨ৎ
-  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=1D2433&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=2C364A&style=flat-square" />
   ୨ৎ<br>
-  <font color="#4c6a9c">. ₊ ⊹ . ₊˖ . ₊</font>
+  . ₊ ⊹ . ₊˖ . ₊
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 <br>
 
 <p align="center">
-  <a href="https://faxxie.atabook.org/"><b><font color="#d44a3a">♡ ATABOOK ♡</font></b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://izukuissomid.straw.page"><b><font color="#4c6a9c">✦ STRAWPAGE ✦</font></b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://en.pronouns.page/@Alxino"><b><font color="#d44a3a">☁ PRONOUNS ☁</font></b></a>
+  <a href="https://faxxie.atabook.org/"><img src="https://img.shields.io/badge/%E2%99%A1%20ATABOOK%20%E2%99%A1-D85B43?style=for-the-badge&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://izukuissomid.straw.page"><img src="https://img.shields.io/badge/%E2%9C%A2%20STRAWPAGE%20%E2%9C%A2-2C364A?style=for-the-badge&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://en.pronouns.page/@Alxino"><img src="https://img.shields.io/badge/%E2%98%81%20PRONOUNS%20%E2%98%81-D85B43?style=for-the-badge&logoColor=white" /></a>
 </p>
