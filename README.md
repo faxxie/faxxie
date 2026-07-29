@@ -3,13 +3,13 @@
 <p align="center">
   ⋆˙⟡────────⟡˙⋆<br>
   ୨ৎ
-  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=FF2B75&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=FA8128&style=flat-square" />
   ୨ৎ<br>
   . ₊ ⊹ . ₊˖ . ₊
 </p>
 
 <p align="center">
-  <img src="bkdkslimeyuh.png" width="450">
+  <img src="bkdklookupp.png" width="450">
 </p>
 
 <br>
