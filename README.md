@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle">
-      <img src="bekuhoe.png" width="450">
+      <img src="bakuhoe.png" width="450">
     </td>
     <td align="center" valign="middle">
       ⋆˙⟡˙⋆<br>
