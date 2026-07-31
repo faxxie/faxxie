@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="bakuhoe.png" width="450" align="left" />
+  <img src="bruuu.png" width="450" align="left" />
 </p>
 
 <div align="center">
