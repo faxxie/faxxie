@@ -10,8 +10,7 @@
   . ₊ ⊹ . ₊˖ . ₊
 
   <br><br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f08d6e&height=120&section=header&text=Izuku%20can%20i,%20still%20catch%20up%20to%20you?&fontSize=22&fontColor=ffffff&animation=twinkling" />
+  
 
   <br><br>
 
