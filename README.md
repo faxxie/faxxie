@@ -5,9 +5,9 @@
 </p>
 
 <div align="center">
-  ⋆˙⟡˙⋆<br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=f08d6e&style=flat-square" /><br>
-  . ₊ ⊹ . ₊˖ . ₊
+  .  . ˖ . ₊
 
   <br><br><br>
 
