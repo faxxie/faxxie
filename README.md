@@ -11,10 +11,7 @@
 
   <br><br>
 
-  <blockquote>
-    $$\color{#f08d6e}\text{izuku can i,} \space \color{#906b63}\text{still catch up} \space \color{#6e6c55}\text{to you?}$$
-  </blockquote>
-
+  
   <br><br>
 
   <a href="https://faxxie.atabook.org/"><img src="https://img.shields.io/badge/%E2%99%A1%20ATABOOK%20%E2%99%A1-f08d6e?style=for-the-badge&logoColor=white" /></a>
