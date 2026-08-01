@@ -11,7 +11,9 @@
 
   <br><br>
 
- 
+  <blockquote>
+    $$\color{#f08d6e}\text{izuku can i,} \space \color{#906b63}\text{still catch up} \space \color{#6e6c55}\text{to you?}$$
+  </blockquote>
 
   <br><br>
 
