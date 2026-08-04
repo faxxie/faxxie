@@ -2,26 +2,18 @@
 
 <div align="center">
 
-𓆩 ♡ 𓆪 &nbsp; ✦ &nbsp; ♫
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=bc636b&style=flat-square"/>
-
-<br><br>
+<p align="center">
+  𓆩 ♡ 𓆪 &nbsp; ✦ &nbsp; ♫
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=bc636b&style=flat-square" align="center" />
+</p>
 
 <p align="center">
-  <a href="https://faxxie.atabook.org/" style="text-decoration:none;">
-    <span style="color:#bc636b;">ata</span>
-  </a>
+  <a href="https://faxxie.atabook.org/">ata</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://izukuissomid.straw.page" style="text-decoration:none;">
-    <span style="color:#dbb58f;">straw</span>
-  </a>
+  <a href="https://izukuissomid.straw.page">straw</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://en.pronouns.page/@Alxino" style="text-decoration:none;">
-    <span style="color:#4a8070;">pronouns</span>
-  </a>
+  <a href="https://en.pronouns.page/@Alxino">pronouns</a>
 </p>
 
 <p>
@@ -34,7 +26,7 @@
 </i>
 </p>
 
-<img src="brruhm.png" width="430">
+<img src="brruhm.png" width="430" />
 
 <br><br>
 
