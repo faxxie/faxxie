@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="buhhm.png" width="450" />
+<img src="buhhm.png" width="550" />
 
 <br><br>
 
