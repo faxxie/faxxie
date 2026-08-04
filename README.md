@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  𓆩 ♡ 𓆪 &nbsp; ✦ &nbsp; ♫
+  .☘︎ ݁˖ &nbsp; ۫ ׅ &nbsp; ‹𝟹
   &nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Heroes-343-bc636b?style=flat-square&labelColor=dbb58f"/>
 </p>
