@@ -2,32 +2,40 @@
 
 <div align="center">
 
-.  . ˖ . ₊<br>
+𓆩 ♡ 𓆪 &nbsp; ✦ &nbsp; ♫
 
-<img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=bc636b&style=flat-square" /><br>
+<br><br>
 
-.  . ˖ . ₊
+<img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=bc636b&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/pride_duo-343-cfb7e9?style=flat-square"/>
+
+<br><br>
+
+<sub>
+
+<a href="https://faxxie.atabook.org/">ata</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://izukuissomid.straw.page">straw</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://en.pronouns.page/@Alxino">pronouns</a>
+
+</sub>
+
+<br><br>
+
+> *izuku can i, still catch up to you?*
 
 <br>
 
-<img src="brruhm.png" width="450" />
+<img src="brruhm.png" width="430">
 
 <br><br>
 
-$$\color{#dbb58f}\text{izuku can i,} \space \color{#c7788f}\text{still catch up} \space \color{#4a8070}\text{to you?}$$
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=BC636B&center=true&vCenter=true&width=300&lines=plus+ultra+%E2%99%A1;still+trying.;heroes+never+quit."/>
 
 <br><br>
 
-<a href="https://faxxie.atabook.org/">
-  <img src="https://img.shields.io/badge/%E2%99%A1%20ATABOOK%20%E2%99%A1-bc636b?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://izukuissomid.straw.page">
-  <img src="https://img.shields.io/badge/%E2%9C%A2%20STRAWPAGE%20%E2%9C%A2-dbb58f?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://en.pronouns.page/@Alxino">
-  <img src="https://img.shields.io/badge/%E2%98%81%20PRONOUNS%20%E2%98%81-4a8070?style=for-the-badge&logoColor=white" />
-</a>
+═══════════════════════════
 
 </div>
