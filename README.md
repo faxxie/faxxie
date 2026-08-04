@@ -8,8 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=bc636b&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/pride_duo-343-cfb7e9?style=flat-square"/>
-
 <br><br>
 
 <sub>
