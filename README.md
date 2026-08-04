@@ -37,7 +37,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&col
 <br><br>
 
 <sub>
-♫ ────────────── ♫
+✚ ────────────── ✚
 </sub>
 
 </div>
