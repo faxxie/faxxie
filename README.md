@@ -19,5 +19,5 @@
   &nbsp;&nbsp;
   <a href="https://izukuissomid.straw.page"><img src="https://img.shields.io/badge/%E2%9C%A2%20STRAWPAGE%20%E2%9C%A2-dbb58f?style=for-the-badge&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://en.pronouns.page/@Alxino"><img src="https://img.shields.io/badge/%E2%98%81%20PRONOUNS%20%E2%98%81-bc636b?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://en.pronouns.page/@Alxino"><img src="https://img.shields.io/badge/%E2%98%81%20PRONOUNS%20%E2%98%81-4a8070?style=for-the-badge&logoColor=white" /></a>
 </div>
