@@ -39,7 +39,7 @@
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2200&color=BC636B&center=true&vCenter=true&width=320&lines=still+trying.;one+step+closer.;heroes+never+quit.;%E2%99%A1"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&color=BC636B&center=true&vCenter=true&width=650&lines=No+matter+who+it+is%2C;I+won%E2%80%99t+let+them+catch+up+to+me%2C;let+alone+get+ahead+of+me!"
 />
 
 <br><br>
