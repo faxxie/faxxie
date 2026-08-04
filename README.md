@@ -10,27 +10,19 @@
 
 <br><br>
 
-<sub>
-
-<a href="https://faxxie.atabook.org/" style="text-decoration:none;">
-<span style="color:#bc636b;">ata</span>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://izukuissomid.straw.page" style="text-decoration:none;">
-<span style="color:#dbb58f;">straw</span>
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://en.pronouns.page/@Alxino" style="text-decoration:none;">
-<span style="color:#4a8070;">pronouns</span>
-</a>
-
-</sub>
-
-<br><br>
+<p align="center">
+  <a href="https://faxxie.atabook.org/" style="text-decoration:none;">
+    <span style="color:#bc636b;">ata</span>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://izukuissomid.straw.page" style="text-decoration:none;">
+    <span style="color:#dbb58f;">straw</span>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://en.pronouns.page/@Alxino" style="text-decoration:none;">
+    <span style="color:#4a8070;">pronouns</span>
+  </a>
+</p>
 
 <p>
 <i>
