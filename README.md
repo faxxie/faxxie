@@ -5,7 +5,7 @@
 <p align="center">
   𓆩 ♡ 𓆪 &nbsp; ✦ &nbsp; ♫
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=bc636b&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=faxxie&label=Heroes&color=dbb58f&style=flat-square" align="center" />
 </p>
 
 <p align="center">
