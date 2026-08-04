@@ -1,7 +1,7 @@
 
 
    <p align="center">
-  <img src="buhhm.png" width="450" align="left" />
+  <img src="buhhm.png" width="550" align="left" />
 </p>
 
 <div align="center">
