@@ -5,7 +5,7 @@
 <p align="center">
   .☘︎ ݁˖ &nbsp; ۫ ׅ &nbsp; ‹𝟹
   &nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Heroes-67-bc636b?style=flat-square&labelColor=dbb58f"/>
+ <img src="https://img.shields.io/badge/Heroes-5k-bc636b?style=flat-square&labelColor=dbb58f"/>
 </p>
 
 <p align="center">
