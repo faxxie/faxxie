@@ -26,7 +26,7 @@
 </i>
 </p>
 
-<img src="assets/brruhm.png" width="430" />
+<img src="brruhm.png" width="430" />
 
 <br><br>
 
