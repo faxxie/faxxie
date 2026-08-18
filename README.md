@@ -26,7 +26,7 @@
 </i>
 </p>
 
-<img src="wahwah.png" width="430" />
+<img src="pixel.png" width="430" />
 
 <br><br>
 
