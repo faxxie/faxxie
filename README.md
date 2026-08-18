@@ -18,11 +18,11 @@
 
 <p>
 <i>
-<span style="color:#dbb58f;">izuku can i,</span>
+<span style="color:#078669;">izuku can i,</span>
 &nbsp;
-<span style="color:#c7788f;">still catch up</span>
+<span style="color:#1b3e66;">still catch up</span>
 &nbsp;
-<span style="color:#4a8070;">to you?</span>
+<span style="color:#291c62;">to you?</span>
 </i>
 </p>
 
@@ -31,7 +31,7 @@
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&color=BC636B&center=true&vCenter=true&width=650&lines=No+matter+who+it+is%2C;I+won%E2%80%99t+let+them+catch+up+to+me%2C;let+alone+get+ahead+of+me!"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&color=156a6f&center=true&vCenter=true&width=650&lines=No+matter+who+it+is%2C;I+won%E2%80%99t+let+them+catch+up+to+me%2C;let+alone+get+ahead+of+me!"
 />
 
 <br><br>
