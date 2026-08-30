@@ -26,7 +26,7 @@
 </i>
 </p>
 
-<img src="pixel.png" width="430" />
+<img src="pixeldrinkbkdk.png" width="430" />
 
 <br><br>
 
