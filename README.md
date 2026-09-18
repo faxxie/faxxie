@@ -18,11 +18,11 @@
 
 <p>
 <i>
-<span style="color:#078669;">izuku can i,</span>
+<span style="color:#078669;">You were magnificent,</span>
 &nbsp;
-<span style="color:#1b3e66;">still catch up</span>
+<span style="color:#1b3e66;">Satoru Gojo.</span>
 &nbsp;
-<span style="color:#291c62;">to you?</span>
+<span style="color:#291c62;">I shall never forget you for as long as I live.</span>
 </i>
 </p>
 
