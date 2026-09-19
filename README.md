@@ -31,7 +31,7 @@
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&color=691218&center=true&vCenter=true&width=650&lines=No+matter+who+it+is%2C;I+won%E2%80%99t+let+them+catch+up+to+me%2C;let+alone+get+ahead+of+me!"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&color=601b1a&center=true&vCenter=true&width=650&lines=No+matter+who+it+is%2C;I+won%E2%80%99t+let+them+catch+up+to+me%2C;let+alone+get+ahead+of+me!"
 />
 
 <br><br>
