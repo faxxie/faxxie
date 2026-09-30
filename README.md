@@ -18,11 +18,11 @@
 
 <p>
 <i>
-<span style="color:#078669;">You were magnificent,</span>
+<span style="color:#078669;">Even If You Come Back</span>
 &nbsp;
-<span style="color:#1b3e66;">Satoru Gojo.</span>
+<span style="color:#1b3e66;">As Another Curse,</span>
 &nbsp;
-<span style="color:#291c62;">I shall never forget you for as long as I live.</span>
+<span style="color:#291c62;">I'll Kill You.</span>
 </i>
 </p>
 
