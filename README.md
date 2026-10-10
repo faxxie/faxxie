@@ -5,7 +5,7 @@
 <p align="center">
   .☘︎ ݁˖ &nbsp; ۫ ׅ &nbsp; ‹𝟹
   &nbsp;&nbsp;
- <img src="https://img.shields.io/badge/larps-67k-b85657?style=flat-square&labelColor=332026"/>
+ <img src="https://img.shields.io/badge/larps-67k-426581?style=flat-square&labelColor=cae7f5"/>
 </p>
 
 <p align="center">
@@ -18,20 +18,20 @@
 
 <p>
 <i>
-<span style="color:#078669;">Even If You Come Back</span>
+<span style="color:#078669;">Dying To Win & Risking Death</span>
 &nbsp;
-<span style="color:#1b3e66;">As Another Curse,</span>
+<span style="color:#1b3e66;">To Win Are,</span>
 &nbsp;
-<span style="color:#291c62;">I'll Kill You.</span>
+<span style="color:#291c62;">Completely Different.</span>
 </i>
 </p>
 
-<img src="bih.png" width="430" />
+<img src="gojocunt.png" width="430" />
 
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&color=d39892&center=true&vCenter=true&width=650&lines=No+matter+who+it+is%2C;I+won%E2%80%99t+let+them+catch+up+to+me%2C;let+alone+get+ahead+of+me!"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&color=cae7f5&center=true&vCenter=true&width=650&lines=No+matter+who+it+is%2C;I+won%E2%80%99t+let+them+catch+up+to+me%2C;let+alone+get+ahead+of+me!"
 />
 
 <br><br>
