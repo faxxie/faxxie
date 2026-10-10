@@ -26,7 +26,7 @@
 </i>
 </p>
 
-<img src="bihhk.png" width="430" />
+<img src="bihhk.png" width="350" />
 
 <br><br>
 
