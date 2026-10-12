@@ -26,7 +26,7 @@
 </i>
 </p>
 
-<img src="sukug.png" width="350" />
+<img src="sukug.png" width="390" />
 
 <br><br>
 
