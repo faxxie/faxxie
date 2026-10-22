@@ -5,7 +5,7 @@
 <p align="center">
   .☘︎ ݁˖ &nbsp; ۫ ׅ &nbsp; ‹𝟹
   &nbsp;&nbsp;
- <img src="https://img.shields.io/badge/larps-67k-e55b2a?style=flat-square&labelColor=b4d6d8"/>
+ <img src="https://img.shields.io/badge/larps-67k-5862a0?style=flat-square&labelColor=feff39"/>
 </p>
 
 <p align="center">
@@ -26,12 +26,12 @@
 </i>
 </p>
 
-<img src="lord.png" width="390" />
+<img src="Not gay tho.png" width="390" />
 
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&color=e55b2a&center=true&vCenter=true&width=650&lines=No+matter+who+it+is%2C;I+won%E2%80%99t+let+them+catch+up+to+me%2C;let+alone+get+ahead+of+me!"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2800&color=3d406d&center=true&vCenter=true&width=650&lines=No+matter+who+it+is%2C;I+won%E2%80%99t+let+them+catch+up+to+me%2C;let+alone+get+ahead+of+me!"
 />
 
 <br><br>
