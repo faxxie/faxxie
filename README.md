@@ -26,7 +26,7 @@
 </i>
 </p>
 
-<img src="Not gay tho.png" width="390" />
+<img src="Not gay tho.png" width="430" />
 
 <br><br>
 
