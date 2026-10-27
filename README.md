@@ -26,7 +26,7 @@
 </i>
 </p>
 
-<img src="tonygyat.png" width="430" />
+<img src="loser.png" width="430" />
 
 <br><br>
 
