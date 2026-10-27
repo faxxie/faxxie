@@ -26,7 +26,7 @@
 </i>
 </p>
 
-<img src="loser.png" width="430" />
+<img src="eatmyturd.png" width="430" />
 
 <br><br>
 
