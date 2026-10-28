@@ -35,7 +35,7 @@
 
 
 <p align="center">
-  <img src="killdat.png" width="330" />
+  <img src="ohnonophonk.png" width="330" />
   &nbsp;&nbsp;
   <img src="week.png" width="330" />
 </p>
