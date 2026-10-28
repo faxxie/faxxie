@@ -26,7 +26,7 @@
 </i>
 </p>
 
-<img src="eatmyturd.png" width="430" />
+<img src="LMAOOO.png" width="430" />
 
 <br><br>
 
