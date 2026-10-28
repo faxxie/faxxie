@@ -26,18 +26,18 @@
 
 
 <p align="center">
-  <img src="LMAOOO.png" width="430" />
+  <img src="LMAOOO.png" width="330" />
   &nbsp;&nbsp;
-  <img src="wo.png" width="430" />
+  <img src="wo.png" width="330" />
 </p>
 
 <br><br>
 
 
 <p align="center">
-  <img src="killdat.png" width="430" />
+  <img src="killdat.png" width="330" />
   &nbsp;&nbsp;
-  <img src="gaybreakup.png" width="430" />
+  <img src="gaybreakup.png" width="330" />
 </p>
 
 <br><br>
