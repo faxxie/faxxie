@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <p align="center">
   .⚡︎ ݁˖ &nbsp; ۫ ׅ &nbsp; ⤷
@@ -24,11 +24,21 @@
 </i>
 </p>
 
-<img src="LMAOOO.png" width="430" />
+
+<p align="center">
+  <img src="LMAOOO.png" width="430" />
+  &nbsp;&nbsp;
+  <img src="wo.png" width="430" />
+</p>
 
 <br><br>
 
-<img src="wo.png" width="430" />
+
+<p align="center">
+  <img src="killdat.png" width="430" />
+  &nbsp;&nbsp;
+  <img src="gaybreakup.png" width="430" />
+</p>
 
 <br><br>
 
