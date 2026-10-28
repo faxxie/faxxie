@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img src="LMAOOO.png" width="330" />
+  <img src="gaybreakup.png" width="330" />
   &nbsp;&nbsp;
   <img src="wo.png" width="330" />
 </p>
@@ -37,7 +37,7 @@
 <p align="center">
   <img src="killdat.png" width="330" />
   &nbsp;&nbsp;
-  <img src="gaybreakup.png" width="330" />
+  <img src="week.png" width="330" />
 </p>
 
 <br><br>
