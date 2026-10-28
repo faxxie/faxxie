@@ -1,11 +1,9 @@
-
-
-<div align="center">
+ <div align="center">
 
 <p align="center">
   .⚡︎ ݁˖ &nbsp; ۫ ׅ &nbsp; ⤷
   &nbsp;&nbsp;
- <img src="https://img.shields.io/badge/larps-67k-7b8989?style=flat-square&labelColor=090708"/>
+  <img src="https://img.shields.io/badge/larps-67k-7b8989?style=flat-square&labelColor=090708"/>
 </p>
 
 <p align="center">
@@ -29,6 +27,8 @@
 <img src="LMAOOO.png" width="430" />
 
 <br><br>
+
+<img src="wo.png" width="430" />
 
 <br><br>
 
