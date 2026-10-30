@@ -29,7 +29,7 @@
 <br><br>
 
 <sub>
-⋮ ────────────── ⋮ 
+⋮ ────────────── ⋮ tf u lookin at mate
 </sub>
 
 </div>
