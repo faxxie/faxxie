@@ -3,7 +3,7 @@
 <p align="center">
   .⚡︎ ݁˖ &nbsp; ۫ ׅ &nbsp; ⤷
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=faxxie&color=black&style=for-the-badge&label=%F0%9F%A4%8D" />
+  <img src="https://komarev.com/ghpvc/?username=faxxie&color=343434&style=for-the-badge&label=%F0%9F%A4%8D" />
 </p>
 
 <p align="center">
