@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://faxxie.atabook.org/">ata</a>
   &nbsp;&nbsp;༝&nbsp;&nbsp;
-  <a href="https://izukuissomid.straw.page">straw</a>
+  <a href="https://spiritedknife.straw.page">straw</a>
   &nbsp;&nbsp;༝&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@Alxino">pronouns</a>
 </p>
