@@ -3,7 +3,7 @@
 <p align="center">
   .⚡︎ ݁˖ &nbsp; ۫ ׅ &nbsp; ⤷
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%A4%8D-26%2C079-black?style=for-the-badge&labelColor=2d2d2d" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=black&style=for-the-badge&label=%F0%9F%A4%8D" />
 </p>
 
 <p align="center">
@@ -18,32 +18,4 @@
 <i>
 <span style="color:#078669;">Dying To Win & Risking Death</span>
 &nbsp;
-<span style="color:#1b3e66;">To Win Are,</span>
-&nbsp;
-<span style="color:#291c62;">Completely Different.</span>
-</i>
-</p>
-
-
-<p align="center">
-  <img src="gaybreakup.png" width="330" />
-  &nbsp;&nbsp;
-  <img src="wo.png" width="330" />
-</p>
-
-<br><br>
-
-
-<p align="center">
-  <img src="ohnonophonk.png" width="330" />
-  &nbsp;&nbsp;
-  <img src="week.png" width="330" />
-</p>
-
-<br><br>
-
-<sub>
-⋮ ────────────── ⋮ illremakethis later
-</sub>
-
-</div>
+<span style="color:#1b3e66
