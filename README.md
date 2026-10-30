@@ -18,20 +18,16 @@
   <img src="bakubaby.png" width="330" />
 </p>
 
-<p>
-<i>
-<span style="color:#078669;">Dying To Win & Risking Death</span>
-&nbsp;
-<span style="color:#1b3e66;">To Win Are,</span>
-&nbsp;
-<span style="color:#291c62;">Completely Different.</span>
-</i>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dying_To_Win_%26_Risking_Death-d3cdcf?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/To_Win_Are,-736467?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Completely_Different.-3c252b?style=flat-square&labelColor=0d1117" />
 </p>
 
 <br><br>
 
 <sub>
-⋮ ────────────── ⋮ illremakethis later
+⋮ ────────────── ⋮ 
 </sub>
 
 </div>
