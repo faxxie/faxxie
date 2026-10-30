@@ -13,7 +13,11 @@
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@Alxino"><img src="https://img.shields.io/badge/PRONOUNS-000000?style=plain&labelColor=000000" /></a>
 </p>
-  
+
+<p align="center">
+  <img src="bakubaby.png" width="330" />
+</p>
+
 <p>
 <i>
 <span style="color:#078669;">Dying To Win & Risking Death</span>
@@ -22,22 +26,6 @@
 &nbsp;
 <span style="color:#291c62;">Completely Different.</span>
 </i>
-</p>
-
-
-<p align="center">
-  <img src="gaybreakup.png" width="330" />
-  &nbsp;&nbsp;
-  <img src="wo.png" width="330" />
-</p>
-
-<br><br>
-
-
-<p align="center">
-  <img src="ohnonophonk.png" width="330" />
-  &nbsp;&nbsp;
-  <img src="week.png" width="330" />
 </p>
 
 <br><br>
