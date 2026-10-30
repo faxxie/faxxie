@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://faxxie.atabook.org/"><img src="https://img.shields.io/badge/ATA-000000?style=plain&labelColor=000000" /></a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;
   <a href="https://spiritedknife.straw.page"><img src="https://img.shields.io/badge/STRAW-000000?style=plain&labelColor=000000" /></a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;&nbsp;
   <a href="https://en.pronouns.page/@Alxino"><img src="https://img.shields.io/badge/PRONOUNS-000000?style=plain&labelColor=000000" /></a>
 </p>
 
