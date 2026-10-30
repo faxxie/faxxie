@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://faxxie.atabook.org/" style="color: #343434; font-weight: bold; text-decoration: none; text-transform: uppercase; letter-spacing: 2px;">ATA</a>
+  <a href="https://faxxie.atabook.org/">ᴀᴛᴀ</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://spiritedknife.straw.page" style="color: #343434; font-weight: bold; text-decoration: none; text-transform: uppercase; letter-spacing: 2px;">STRAW</a>
+  <a href="https://spiritedknife.straw.page">sᴛʀᴀᴡ</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://en.pronouns.page/@Alxino" style="color: #343434; font-weight: bold; text-decoration: none; text-transform: uppercase; letter-spacing: 2px;">PRONOUNS</a>
+  <a href="https://en.pronouns.page/@Alxino">ᴘʀᴏɴᴏᴜɴs</a>
+</p>
   
 <p>
 <i>
