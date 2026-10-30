@@ -3,7 +3,7 @@
 <p align="center">
   .⚡︎ ݁˖ &nbsp; ۫ ׅ &nbsp; ⤷
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/larps-67k-7b8989?style=flat-square&labelColor=090708"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%8D-26%2C079-black?style=for-the-badge&labelColor=2d2d2d" />
 </p>
 
 <p align="center">
