@@ -3,8 +3,9 @@
 <p align="center">
   ݁˖ &nbsp; ۫ &nbsp; 
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=faxxie&color=3b2228&style=for-the-badge&label=%F0%9F%A4%8D" />
+  <img src="https://img.shields.io/badge/larps-67k-3b2228?style=flat-square&labelColor=c4babe"/>
 </p>
+
 
 <p align="center">
   <a href="https://faxxie.atabook.org/"><img src="https://img.shields.io/badge/ATA-000000?style=plain&labelColor=000000" /></a>
