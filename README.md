@@ -18,7 +18,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=bca023&center=true&vCenter=true&width=430&height=40&lines=My+god...+My+universe." /></p>
 
 <p align="center">
-  <img src="lufu.png" width="400" />
+  <img src="lufu.png" width="360" />
 </p>
 
 
