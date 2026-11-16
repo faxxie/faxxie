@@ -21,11 +21,6 @@
   <img src="lufu.png" width="330" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Dying_To_Win_%26_Risking_Death-b45537?style=flat-square&labelColor=8c3722" />
-  <img src="https://img.shields.io/badge/To_Win_Are,-43adba?style=flat-square&labelColor=928a0b" />
-  <img src="https://img.shields.io/badge/Completely_Different.-0e3a23?style=flat-square&labelColor=182917" />
-</p>
 
 <br><br>
 
