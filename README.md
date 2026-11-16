@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dying_To_Win_%26_Risking_Death-659879?style=flat-square&labelColor=a1ae9c" />
-  <img src="https://img.shields.io/badge/To_Win_Are,-207b8d?style=flat-square&labelColor=43adba" />
+  <img src="https://img.shields.io/badge/To_Win_Are,-43adba?style=flat-square&labelColor=928a0b" />
   <img src="https://img.shields.io/badge/Completely_Different.-0e3a23?style=flat-square&labelColor=182917" />
 </p>
 
