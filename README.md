@@ -3,7 +3,7 @@
 <p align="center">
   ݁˖ &nbsp; ۫ &nbsp; 
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/larps-67k-3f7d34?style=flat-square&labelColor=163604"/>
+  <img src="https://img.shields.io/badge/larps-67k-778286?style=flat-square&labelColor=496a6f"/>
 </p>
 
 
@@ -15,10 +15,10 @@
   <a href="https://en.pronouns.page/@Alxino"><img src="https://img.shields.io/badge/PRONOUNS-000000?style=plain&labelColor=000000" /></a>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=bca023&center=true&vCenter=true&width=430&height=40&lines=My+god...+My+universe." /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=838b8e&center=true&vCenter=true&width=430&height=40&lines=My+god...+My+universe." /></p>
 
 <p align="center">
-  <img src="lufu.png" width="360" />
+  <img src="ludu.png" width="360" />
 </p>
 
 
