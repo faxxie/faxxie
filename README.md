@@ -3,7 +3,7 @@
 <p align="center">
   ݁˖ &nbsp; ۫ &nbsp; 
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/larps-67k-137580?style=flat-square&labelColor=62422b"/>
+  <img src="https://img.shields.io/badge/larps-67k-212e1a?style=flat-square&labelColor=0c7123"/>
 </p>
 
 
@@ -24,7 +24,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dying_To_Win_%26_Risking_Death-d3cdcf?style=flat-square&labelColor=a1ae9c" />
   <img src="https://img.shields.io/badge/To_Win_Are,-736467?style=flat-square&labelColor=663e25" />
-  <img src="https://img.shields.io/badge/Completely_Different.-3c252b?style=flat-square&labelColor=182917" />
+  <img src="https://img.shields.io/badge/Completely_Different.-0e3a23?style=flat-square&labelColor=182917" />
 </p>
 
 <br><br>
