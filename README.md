@@ -3,7 +3,7 @@
 <p align="center">
   ݁˖ &nbsp; ۫ &nbsp; 
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/larps-67k-3b2228?style=flat-square&labelColor=c4babe"/>
+  <img src="https://img.shields.io/badge/larps-67k-137580?style=flat-square&labelColor=62422b"/>
 </p>
 
 
@@ -15,16 +15,16 @@
   <a href="https://en.pronouns.page/@Alxino"><img src="https://img.shields.io/badge/PRONOUNS-000000?style=plain&labelColor=000000" /></a>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=1000&color=D3CDCF&center=true&vCenter=true&width=430&height=40&lines=My+god...+My+universe." /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=1000&color=a1ae9c&center=true&vCenter=true&width=430&height=40&lines=My+god...+My+universe." /></p>
 
 <p align="center">
-  <img src="bakubaby.png" width="330" />
+  <img src="lufu.png" width="330" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dying_To_Win_%26_Risking_Death-d3cdcf?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/To_Win_Are,-736467?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Completely_Different.-3c252b?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Dying_To_Win_%26_Risking_Death-d3cdcf?style=flat-square&labelColor=a1ae9c" />
+  <img src="https://img.shields.io/badge/To_Win_Are,-736467?style=flat-square&labelColor=663e25" />
+  <img src="https://img.shields.io/badge/Completely_Different.-3c252b?style=flat-square&labelColor=182917" />
 </p>
 
 <br><br>
