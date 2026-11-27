@@ -18,7 +18,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=7d7d7d&center=true&vCenter=true&width=430&height=40&lines=so+this+is+love?." /></p>
 
 <p align="center">
-  <img src="itaf.png" width="360" />
+  <img src="itaf.png" width="400" />
 </p>
 
 
