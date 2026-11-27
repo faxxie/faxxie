@@ -15,7 +15,7 @@
   <a href="https://en.pronouns.page/@Alxino"><img src="https://img.shields.io/badge/PRONOUNS-000000?style=plain&labelColor=000000" /></a>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=7d7d7d&center=true&vCenter=true&width=430&height=50&lines=So this is love." /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=7d7d7d&center=true&vCenter=true&width=430&height=40&lines=So this is love." /></p>
 
 <p align="center">
   <img src="itaf.png" width="400" />
