@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=7d7d7d&center=true&vCenter=true&width=600&height=40&lines=So+this+is+love%2C+so+this+is+what+makes+life+divine." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=7d7d7d&center=true&vCenter=true&width=600&height=40&lines=So+this+is+love%2C+so+this+is+what+makes+life+divine.." />
 </p>
 
 <p align="center">
