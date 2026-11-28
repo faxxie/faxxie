@@ -4,7 +4,7 @@
 <p align="center">
   &nbsp; ۫&nbsp;
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/larps-67k-b0b0b0?style=flat-square&labelColor=7d7d7d"/>
+  <img src="https://img.shields.io/badge/larps-67k-FF2C2C?style=flat-square&labelColor=4292C6"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=7d7d7d&center=true&vCenter=true&width=600&height=40&lines=Get+dat+maui+wowie" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=FF2C2C&center=true&vCenter=true&width=600&height=40&lines=Get+dat+maui+wowie" />
 </p>
 
 <p align="center">
