@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="itaf.png" width="400" />
+  <img src="obrázek_2026-11-28_162907701.png" width="400" />
 </p>
 
 <br><br>
