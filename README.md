@@ -2,7 +2,7 @@
 <div align="center">
 
 <p align="center">
-  ݁˖ &nbsp; ۫ &nbsp;
+  &nbsp; ۫&nbsp;
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/larps-67k-b0b0b0?style=flat-square&labelColor=7d7d7d"/>
 </p>
