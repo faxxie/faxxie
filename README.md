@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=FF2C2C&center=true&vCenter=true&width=600&height=40&lines=Get+dat+maui+wowie" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=4000&pause=1000&color=FFD300&center=true&vCenter=true&width=600&height=40&lines=Get+dat+maui+wowie" />
 </p>
 
 <p align="center">
